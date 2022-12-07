@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
+I'm **Boss**, a `Front-End` bug coder. Nice to meet you here.
 
 [![badge](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![badge](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
